@@ -1,0 +1,12 @@
+{
+  "name": "Stegoanalysis",
+  "version": "1.0",
+  "author": "Diana L.",
+  "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
+  "license": "AGPL-V3",
+  "description": "Use Stegoanalysis",
+  "dataTypeList": ["file"],
+  "baseConfig": "StegoScan",
+  "command": "Stegoanalysis/pydetect_stego.py"
+}
+
